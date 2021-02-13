@@ -1,0 +1,22 @@
+{
+  "name": "WZBlockTimer",
+  "version": "0.1.0",
+  "summary": "A short description of WZBlockTimer.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/elinkthings/WZBlockTimer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "elinkthings": "314617842@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/elinkthings/WZBlockTimer.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WZBlockTimer/Classes/**/*"
+}

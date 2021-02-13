@@ -1,0 +1,16 @@
+PODS:
+  - WZBlockTimer (0.1.0)
+
+DEPENDENCIES:
+  - WZBlockTimer (from `../`)
+
+EXTERNAL SOURCES:
+  WZBlockTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZBlockTimer: d25296d71270a7fad7c1a94bf484c465f1e750a7
+
+PODFILE CHECKSUM: 9812290c53d42c70cc366d33f2c95194ec78443f
+
+COCOAPODS: 1.10.1

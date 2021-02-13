@@ -1,0 +1,6 @@
+framework module Pods_WZBlockTimer_Example {
+  umbrella header "Pods-WZBlockTimer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module WZBlockTimer {
+  umbrella header "WZBlockTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

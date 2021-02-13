@@ -1,5 +1,5 @@
 PODS:
-  - WZBlockTimer (0.1.0)
+  - WZBlockTimer (1.0.0)
 
 DEPENDENCIES:
   - WZBlockTimer (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  WZBlockTimer: d25296d71270a7fad7c1a94bf484c465f1e750a7
+  WZBlockTimer: 50bc2cd3769b06b8af3c5c09394e4586aa51d542
 
 PODFILE CHECKSUM: 9812290c53d42c70cc366d33f2c95194ec78443f
 

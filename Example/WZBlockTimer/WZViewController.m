@@ -7,6 +7,7 @@
 //
 
 #import "WZViewController.h"
+#import "NSTimer+WZBlock.h"
 
 @interface WZViewController ()
 
@@ -18,6 +19,11 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [NSTimer wz_scheduledTimerWithTimeInterval:1 repeats:YES block:^(NSTimer *timer) {
+        NSLog(@"--test");
+    }];
+    
 }
 
 - (void)didReceiveMemoryWarning

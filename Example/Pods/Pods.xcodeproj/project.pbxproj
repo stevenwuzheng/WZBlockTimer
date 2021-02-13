@@ -40,15 +40,15 @@
 /* Begin PBXFileReference section */
 		02B446D23BC185EC56C7EF291E9BEC0F /* Pods-WZBlockTimer_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WZBlockTimer_Example-Info.plist"; sourceTree = "<group>"; };
 		2F0D1D5C5424AE22DD636FAFC936BEAD /* Pods-WZBlockTimer_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WZBlockTimer_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3030FEC4BD8A324D8C62AA5E5412AA8A /* WZBlockTimer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = WZBlockTimer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3030FEC4BD8A324D8C62AA5E5412AA8A /* WZBlockTimer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WZBlockTimer.framework; path = WZBlockTimer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31369B2D1D282BC6E44FE1407CF82BCF /* Pods-WZBlockTimer_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WZBlockTimer_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		33C6DCD9C8E73A7EF7CEA5DC35B0A699 /* Pods_WZBlockTimer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WZBlockTimer_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		33C6DCD9C8E73A7EF7CEA5DC35B0A699 /* Pods_WZBlockTimer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WZBlockTimer_Tests.framework; path = "Pods-WZBlockTimer_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42423F565BDCC2C51A86AC835144AD0F /* Pods-WZBlockTimer_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WZBlockTimer_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		44022479F5564DCED42D8B8A34FB825C /* Pods-WZBlockTimer_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-WZBlockTimer_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4D370528FF3F6EDD28CD1DD6CE4BE1C7 /* Pods-WZBlockTimer_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WZBlockTimer_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		555D66748B7064AAAD205040C0A1F8AC /* Pods-WZBlockTimer_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WZBlockTimer_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		5D74FEDB48C6AA2C5A1E1A41322B3F6E /* Pods_WZBlockTimer_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WZBlockTimer_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6252221CCEC3CE16A341E94CC1EB888F /* WZBlockTimer.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = WZBlockTimer.podspec; sourceTree = "<group>"; tabWidth = 2; };
+		5D74FEDB48C6AA2C5A1E1A41322B3F6E /* Pods_WZBlockTimer_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_WZBlockTimer_Example.framework; path = "Pods-WZBlockTimer_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6252221CCEC3CE16A341E94CC1EB888F /* WZBlockTimer.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = WZBlockTimer.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6580D1B6877ACB09EE127ED6CD08423F /* WZBlockTimer.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = WZBlockTimer.modulemap; sourceTree = "<group>"; };
 		6C448445C169007AB3F925BE2F792BBF /* Pods-WZBlockTimer_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-WZBlockTimer_Tests-Info.plist"; sourceTree = "<group>"; };
 		6E3275883DAA3AF86254812892C832A4 /* WZBlockTimer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WZBlockTimer.release.xcconfig; sourceTree = "<group>"; };
@@ -57,12 +57,12 @@
 		81A7030C5134B5F961858FE7FB9DE0C2 /* Pods-WZBlockTimer_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WZBlockTimer_Tests-dummy.m"; sourceTree = "<group>"; };
 		991E35820B829F22E6E7917108986471 /* NSTimer+WZBlock.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSTimer+WZBlock.m"; path = "WZBlockTimer/Classes/NSTimer+WZBlock.m"; sourceTree = "<group>"; };
 		9A072EFCE6D925A0035B178A65709186 /* Pods-WZBlockTimer_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WZBlockTimer_Tests.modulemap"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A3DF9CCF31B3F52D559E3954FB81B6DD /* Pods-WZBlockTimer_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-WZBlockTimer_Example-dummy.m"; sourceTree = "<group>"; };
 		A7958299CDA36F4D2BB87B2D53CC7DBB /* Pods-WZBlockTimer_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WZBlockTimer_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A85BA968C268353FBF37D6E5C378C61C /* NSTimer+WZBlock.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSTimer+WZBlock.h"; path = "WZBlockTimer/Classes/NSTimer+WZBlock.h"; sourceTree = "<group>"; };
 		AA3AC307FE655078680A71C7D780B3AD /* WZBlockTimer-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WZBlockTimer-dummy.m"; sourceTree = "<group>"; };
-		AC2854BA64C4CCA4E2B15242DD78EBA0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		AC2854BA64C4CCA4E2B15242DD78EBA0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		C54E1EECD4A144BE9BF8321DA3AF4C9F /* WZBlockTimer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WZBlockTimer.debug.xcconfig; sourceTree = "<group>"; };
 		C80D7D52C569EB834FAFD7B3FD3C6709 /* Pods-WZBlockTimer_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-WZBlockTimer_Example-frameworks.sh"; sourceTree = "<group>"; };
 		CC5D420FA198C36401DAAD6DCD3983BA /* Pods-WZBlockTimer_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-WZBlockTimer_Example.modulemap"; sourceTree = "<group>"; };
@@ -71,7 +71,7 @@
 		DAC07A644ABA2F8647C7B692FDCDA87F /* WZBlockTimer-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WZBlockTimer-umbrella.h"; sourceTree = "<group>"; };
 		DCCB1974E526E5D412AC4C99F613B6C0 /* Pods-WZBlockTimer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-WZBlockTimer_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		FBD257C54879188511ED9CDC24881624 /* Pods-WZBlockTimer_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-WZBlockTimer_Tests-umbrella.h"; sourceTree = "<group>"; };
-		FF00D6DB930B9D189CE0DFE3E2F00A40 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FF00D6DB930B9D189CE0DFE3E2F00A40 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -690,7 +690,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
